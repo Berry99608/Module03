@@ -15,4 +15,5 @@ def multiplication(c):
     return result
 
 somme(5, 10)
+print("encore")
 print(multiplication(3))
